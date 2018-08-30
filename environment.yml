@@ -2,9 +2,9 @@ name: demo_notebooks
 channels:
   - diffpy
   - defaults
-  dependencies:
+dependencies:
   - numpy
   - matplotlib
   - pandas
-  - python
+  - python=2.7
   - diffpy-cmi
