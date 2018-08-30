@@ -1,0 +1,11 @@
+name: demo_notebooks
+channels:
+  - diffpy/channel/dev
+  - diffpy
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - python
+  - diffpy-cmi
