@@ -2,7 +2,6 @@ name: demo_notebooks
 channels:
   - defaults
   - diffpy
-
   dependencies:
   - numpy
   - matplotlib
