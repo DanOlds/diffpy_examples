@@ -6,5 +6,5 @@ channels:
   - numpy
   - matplotlib
   - pandas
-  - python = 2.7
+  - python=2.7
   - diffpy-cmi
