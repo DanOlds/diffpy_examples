@@ -1,6 +1,7 @@
 name: demo_notebooks
 channels:
   - diffpy
+  - benfrandsen
   - defaults
 dependencies:
   - numpy
