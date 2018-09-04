@@ -8,3 +8,4 @@ dependencies:
   - pandas
   - python=2.7
   - diffpy-cmi
+  - diffpy.mpdf
